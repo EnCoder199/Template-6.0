@@ -1,0 +1,3 @@
+/Users/lloydson/Code/C++/Games/Pong/Template-6.0/build/CMakeFiles/Template.dir
+/Users/lloydson/Code/C++/Games/Pong/Template-6.0/build/CMakeFiles/edit_cache.dir
+/Users/lloydson/Code/C++/Games/Pong/Template-6.0/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/lloydson/Code/C++/Games/Pong/Template-6.0/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -I/Users/lloydson/Code/C++/Games/Pong/Template-6.0/lib -I/Users/lloydson/Code/C++/Games/Pong/Template-6.0/src -I/Users/lloydson/Code/C++/Games/Pong/Template-6.0/src/core -I/Users/lloydson/Code/C++/Games/Pong/Template-6.0/src/core/object -g -std=gnu++17 -arch arm64 -o CMakeFiles/Template.dir/demo/Main.cpp.o -c /Users/lloydson/Code/C++/Games/Pong/Template-6.0/demo/Main.cpp",
+  "file": "/Users/lloydson/Code/C++/Games/Pong/Template-6.0/demo/Main.cpp",
+  "output": "/Users/lloydson/Code/C++/Games/Pong/Template-6.0/build/CMakeFiles/Template.dir/demo/Main.cpp.o"
+},
+{
+  "directory": "/Users/lloydson/Code/C++/Games/Pong/Template-6.0/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -I/Users/lloydson/Code/C++/Games/Pong/Template-6.0/lib -I/Users/lloydson/Code/C++/Games/Pong/Template-6.0/src -I/Users/lloydson/Code/C++/Games/Pong/Template-6.0/src/core -I/Users/lloydson/Code/C++/Games/Pong/Template-6.0/src/core/object -g -std=gnu++17 -arch arm64 -o CMakeFiles/Template.dir/src/core/Keyhandle.cpp.o -c /Users/lloydson/Code/C++/Games/Pong/Template-6.0/src/core/Keyhandle.cpp",
+  "file": "/Users/lloydson/Code/C++/Games/Pong/Template-6.0/src/core/Keyhandle.cpp",
+  "output": "/Users/lloydson/Code/C++/Games/Pong/Template-6.0/build/CMakeFiles/Template.dir/src/core/Keyhandle.cpp.o"
+},
+{
+  "directory": "/Users/lloydson/Code/C++/Games/Pong/Template-6.0/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -I/Users/lloydson/Code/C++/Games/Pong/Template-6.0/lib -I/Users/lloydson/Code/C++/Games/Pong/Template-6.0/src -I/Users/lloydson/Code/C++/Games/Pong/Template-6.0/src/core -I/Users/lloydson/Code/C++/Games/Pong/Template-6.0/src/core/object -g -std=gnu++17 -arch arm64 -o CMakeFiles/Template.dir/src/core/object/MutableObject.cpp.o -c /Users/lloydson/Code/C++/Games/Pong/Template-6.0/src/core/object/MutableObject.cpp",
+  "file": "/Users/lloydson/Code/C++/Games/Pong/Template-6.0/src/core/object/MutableObject.cpp",
+  "output": "/Users/lloydson/Code/C++/Games/Pong/Template-6.0/build/CMakeFiles/Template.dir/src/core/object/MutableObject.cpp.o"
+},
+{
+  "directory": "/Users/lloydson/Code/C++/Games/Pong/Template-6.0/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -I/Users/lloydson/Code/C++/Games/Pong/Template-6.0/lib -I/Users/lloydson/Code/C++/Games/Pong/Template-6.0/src -I/Users/lloydson/Code/C++/Games/Pong/Template-6.0/src/core -I/Users/lloydson/Code/C++/Games/Pong/Template-6.0/src/core/object -g -std=gnu++17 -arch arm64 -o CMakeFiles/Template.dir/src/core/object/Collision.cpp.o -c /Users/lloydson/Code/C++/Games/Pong/Template-6.0/src/core/object/Collision.cpp",
+  "file": "/Users/lloydson/Code/C++/Games/Pong/Template-6.0/src/core/object/Collision.cpp",
+  "output": "/Users/lloydson/Code/C++/Games/Pong/Template-6.0/build/CMakeFiles/Template.dir/src/core/object/Collision.cpp.o"
+},
+{
+  "directory": "/Users/lloydson/Code/C++/Games/Pong/Template-6.0/build",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -I/Users/lloydson/Code/C++/Games/Pong/Template-6.0/lib -I/Users/lloydson/Code/C++/Games/Pong/Template-6.0/src -I/Users/lloydson/Code/C++/Games/Pong/Template-6.0/src/core -I/Users/lloydson/Code/C++/Games/Pong/Template-6.0/src/core/object -g -std=gnu++17 -arch arm64 -o CMakeFiles/Template.dir/src/core/Window.cpp.o -c /Users/lloydson/Code/C++/Games/Pong/Template-6.0/src/core/Window.cpp",
+  "file": "/Users/lloydson/Code/C++/Games/Pong/Template-6.0/src/core/Window.cpp",
+  "output": "/Users/lloydson/Code/C++/Games/Pong/Template-6.0/build/CMakeFiles/Template.dir/src/core/Window.cpp.o"
+}
+]

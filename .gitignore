@@ -30,3 +30,19 @@
 *.exe
 *.out
 *.app
+
+# Generated Folders
+bin
+build
+reports
+.github
+
+# Generated CMake Files
+cmake_install.cmake_install
+CMakeCache.txt
+Makefile
+
+# Personal Use Files
+styles.md
+.clang-format
+.vscode

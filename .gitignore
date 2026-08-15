@@ -35,7 +35,7 @@
 bin
 build
 reports
-.github
+.github/agents
 
 # Generated CMake Files
 cmake_install.cmake_install
